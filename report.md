@@ -19,7 +19,7 @@
 
 
 В качестве тестовых данных использовались данные из
-[Руководство использования Money Transfer]((https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
+[Руководство использования Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
   текущий баланс счёта клиента - 2_000_000_000;
   сумма перевода - 500_000_000;
   
